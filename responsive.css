@@ -1,0 +1,54 @@
+@media only screen and (max-width : 1462px){
+    .container{
+        width: 50vw;
+        height: 60vw;
+    }
+}
+@media only screen and (max-width : 950px){
+    .container{
+        width: 60vw;
+        height: 80vw;
+    }
+}
+@media only screen and (max-width : 816px){
+    .container{
+        width: 80vw;
+        height: 90vw;
+    }
+}
+@media only screen and (max-width : 580px){
+    .container{
+        width: 90vw;
+        height: 95vw;
+    }
+    .search-box input{
+        width: 85%;
+    }
+    .search-box button{
+        width: 14%;
+    }
+}
+@media only screen and (max-width : 390px){
+    .container{
+        width: 90vw;
+        height: 100vw;
+    }
+    .search-box input{
+        width: 85%;
+    }
+    .search-box button{
+        width: 14%;
+    }
+}
+@media only screen and (max-width : 375px){
+    .container{
+        width: 90vw;
+        height: 112vw;
+    }
+    .search-box input{
+        width: 79%;
+    }
+    .search-box button{
+        width: 12%;
+    }
+}
